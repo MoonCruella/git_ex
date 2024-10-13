@@ -26,6 +26,7 @@
 		  	  <td>name</td>
 		  	  <td>mobile</td>
 		  	  <td>country</td>
+			  <td>school</td>
 		  	</tr>
 		  </thead>
 		  
