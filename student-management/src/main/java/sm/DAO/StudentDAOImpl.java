@@ -70,4 +70,11 @@ public class StudentDAOImpl implements IStudentDAO {
 		jdbcTemplate.update(sql,id);
 	}
 
+
+	@Override
+	public void getSchool(int id) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
