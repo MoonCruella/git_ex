@@ -81,6 +81,8 @@ public class StudentController {
 		
 		System.out.println(theStudent);
 		
+		System.out.println(theStudent);
+		
 		//setting the student infomation 
 		model.addAttribute("student",theStudent);
 		
